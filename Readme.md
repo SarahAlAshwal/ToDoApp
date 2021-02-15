@@ -1,7 +1,7 @@
 # ToDo 
 This is a simple react native application that let users add todos and delete them
 
-## Final Product
+## First Version
  
 !["Main Page"](https://github.com/SarahAlAshwal/ToDoApp/blob/master/images/home.png)
 
